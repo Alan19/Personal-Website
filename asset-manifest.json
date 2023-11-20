@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Personal-Website/static/css/main.1b2864b5.css",
-    "main.js": "/Personal-Website/static/js/main.a0324263.js",
-    "static/js/86.37446806.chunk.js": "/Personal-Website/static/js/86.37446806.chunk.js",
+    "main.js": "/Personal-Website/static/js/main.1d20d65e.js",
+    "static/js/86.aac04054.chunk.js": "/Personal-Website/static/js/86.aac04054.chunk.js",
     "static/js/339.32111947.chunk.js": "/Personal-Website/static/js/339.32111947.chunk.js",
     "static/js/203.e8898371.chunk.js": "/Personal-Website/static/js/203.e8898371.chunk.js",
     "static/media/OriginTech personal use.otf": "/Personal-Website/static/media/OriginTech personal use.d5292de74bba42b8d98b.otf",
     "static/media/OriginTech personal use.ttf": "/Personal-Website/static/media/OriginTech personal use.91ec04328d7a9da85f53.ttf",
     "index.html": "/Personal-Website/index.html",
     "main.1b2864b5.css.map": "/Personal-Website/static/css/main.1b2864b5.css.map",
-    "main.a0324263.js.map": "/Personal-Website/static/js/main.a0324263.js.map",
-    "86.37446806.chunk.js.map": "/Personal-Website/static/js/86.37446806.chunk.js.map",
+    "main.1d20d65e.js.map": "/Personal-Website/static/js/main.1d20d65e.js.map",
+    "86.aac04054.chunk.js.map": "/Personal-Website/static/js/86.aac04054.chunk.js.map",
     "339.32111947.chunk.js.map": "/Personal-Website/static/js/339.32111947.chunk.js.map",
     "203.e8898371.chunk.js.map": "/Personal-Website/static/js/203.e8898371.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2864b5.css",
-    "static/js/main.a0324263.js"
+    "static/js/main.1d20d65e.js"
   ]
 }
