@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.d00f32fb.css",
-    "main.js": "/static/js/main.c21eada7.js",
-    "static/js/668.7d56df0a.chunk.js": "/static/js/668.7d56df0a.chunk.js",
+    "main.js": "/static/js/main.aa11a245.js",
+    "static/js/668.4fd29eac.chunk.js": "/static/js/668.4fd29eac.chunk.js",
     "static/js/808.c32269de.chunk.js": "/static/js/808.c32269de.chunk.js",
-    "static/js/368.92a40010.chunk.js": "/static/js/368.92a40010.chunk.js",
+    "static/js/144.4a4720a3.chunk.js": "/static/js/144.4a4720a3.chunk.js",
     "static/media/OriginTech personal use.otf": "/static/media/OriginTech personal use.d5292de74bba42b8d98b.otf",
     "static/media/OriginTech personal use.ttf": "/static/media/OriginTech personal use.91ec04328d7a9da85f53.ttf",
     "index.html": "/index.html",
     "main.d00f32fb.css.map": "/static/css/main.d00f32fb.css.map",
-    "main.c21eada7.js.map": "/static/js/main.c21eada7.js.map",
-    "668.7d56df0a.chunk.js.map": "/static/js/668.7d56df0a.chunk.js.map",
+    "main.aa11a245.js.map": "/static/js/main.aa11a245.js.map",
+    "668.4fd29eac.chunk.js.map": "/static/js/668.4fd29eac.chunk.js.map",
     "808.c32269de.chunk.js.map": "/static/js/808.c32269de.chunk.js.map",
-    "368.92a40010.chunk.js.map": "/static/js/368.92a40010.chunk.js.map"
+    "144.4a4720a3.chunk.js.map": "/static/js/144.4a4720a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d00f32fb.css",
-    "static/js/main.c21eada7.js"
+    "static/js/main.aa11a245.js"
   ]
 }
